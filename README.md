@@ -4,6 +4,6 @@
 <h1 align="center">Alura Books - API</h1>
 <hr>
 
-<a href="https://marcosgardinali.github.io//">Clique aqui para acessar o site do projeto</a>
+<a href="https://marcosgardinali.github.io/API_Alura/">Clique aqui para acessar o site do projeto</a>
 
 <p>Projeto realizado durante o curso de JavaScript para consumo de API, onde foi disponibilizado durante as aulas todo o documento com a página html pronta e estilizada, pois o objetivo do curso foi de receber dados de uma API de Ceps e usar estes dados para preencher campos da página, afim de evitar que um mesmo endereço seja digitado de diversas formas por diferentes usuários!</p>
